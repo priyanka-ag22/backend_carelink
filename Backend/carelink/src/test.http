@@ -1,0 +1,8 @@
+### Register a Patient
+POST http://localhost:8080/api/patients/register
+Content-Type: application/json
+
+{
+  "fullName": "Kshitij Rajput",
+  "email": "kshitij@gmail.com"
+}
