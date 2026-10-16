@@ -6,3 +6,13 @@ __pycache__/
 .DS_Store
 /staticfiles/
 /media/
+
+# Secrets and virtual environments
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+db.sqlite3
+
+.venv/
